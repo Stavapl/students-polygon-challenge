@@ -19,4 +19,4 @@ adding your code.
 ## Usefull links
 * [PixiJS home page](https://pixijs.com/)
 * [PixiJS getting started guide](https://pixijs.io/guides/basics/getting-started.html)
-* [PixiJS Ticker Docs](https://www.youtube.com/playlist?list=PLT1F2nOxLHOfQI_hFiDnnWj4lb5KsviJ_) `<----------`
+* [PixiJS Ticker Docs](https://pixijs.download/release/docs/PIXI.Ticker.html#add) `<----------`
